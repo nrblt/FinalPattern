@@ -1,5 +1,4 @@
-package com.company;
-
+package AdapterArmor;
 public class Main {
 
     public static void main(String[] args) {

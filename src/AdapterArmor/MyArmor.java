@@ -1,5 +1,4 @@
-package com.company;
-
+package AdapterArmor;
 public class MyArmor implements Armor{
     private int armor;
 

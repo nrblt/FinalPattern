@@ -1,4 +1,4 @@
-package com.company;
+package AdapterArmor;
 
 public class ToHPImplementation implements ToHPAdapter{
     private MyArmor armor;
